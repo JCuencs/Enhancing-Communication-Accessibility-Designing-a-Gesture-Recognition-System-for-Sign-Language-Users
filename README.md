@@ -71,3 +71,4 @@ Designing a gesture recognition system for sign language users utilizing compute
 - `04-accuracy_evaluation.py`: Script for evaluating model accuracy.
 - `05-main.py`: Main application script for real-time gesture recognition.
 - `requirements.txt`: List of required Python packages.
+
