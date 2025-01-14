@@ -7,15 +7,15 @@
 
 ## Overview
 
-Designing a gesture recognition system for sign language users utilizing computer vision and machine learning technologies.
+A gesture recognition system for sign language users utilizing computer vision and machine learning technologies.
 
 ## Features
 
-- **Gesture Data Collection**: Scripts to collect and store gesture data.
-- **Data Preprocessing**: Tools to preprocess collected data for model training.
-- **Model Training**: Implementation of machine learning models for gesture recognition.
+- **Gesture Data Collection**: Script to collect and store gesture data.
+- **Data Preprocessing**: Script to preprocess collected data for model training.
+- **AI Model Training**: Implementation of machine learning models for gesture recognition.
 - **Accuracy Evaluation**: Evaluation metrics to assess model performance.
-- **Real-time Recognition**: Application to recognize gestures in real-time.
+- **Real-time Gesture Recognition**: Application to recognize gestures in real-time.
 
 ## Installation
 
