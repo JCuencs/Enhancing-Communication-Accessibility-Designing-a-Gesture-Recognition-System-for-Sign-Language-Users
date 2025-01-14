@@ -7,7 +7,7 @@
 
 ## Overview
 
-This project aims to develop a gesture recognition system to facilitate communication for sign language users. By leveraging machine learning techniques, the system interprets sign language gestures and translates them into text, enhancing accessibility for individuals with hearing impairments adn speech impediments.
+Designing a gesture recognition system for sign language users utilizing computer vision and machine learning technologies.
 
 ## Features
 
